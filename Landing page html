@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equi="X-UA-Compatible" content="ie=edge">
+    <title>Landing page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+   <header>
+    <h1>Welcome to our website</h1>
+    <p>Your one-stop destination for all your needs!</p>
+   </header>
+
+   <section class="features">
+    <div class="feature">
+        <img src=https://gttp.imgix.net/225068/x/0/palawan-el-nido-small-lagoon-shutterstock-1112213810.jpg
+        alt="Feature 1">
+        <h2>Feature 1</h2>
+            <p>Description of feature 1.</p>
+        </div>
+        <div class="feature">
+            <img src="https://i.pinimg.com/originals/63/aa/24/63aa24427dc91a6579425cd4a14787f0.jpg"
+             alt="Feature 2">
+            <h2>Feature 2</h2>
+            <p>Description of feature 2.</p>
+        </div>
+        <div class="feature">
+            <img src="https://www.nopostcode.com/wp-content/uploads/2021/03/Big-Lagoon-El-Nido-13-600x750.jpg" 
+            alt="Feature 3">
+            <h2>Feature 3</h2>
+            <p>Description of feature 3.</p>
+        </div>
+    </section>
+    
+    <footer>
+        <p>&copy; 2024 Our Website. All rights reserved.</p>
+    </footer>
+</body>
+</html>
